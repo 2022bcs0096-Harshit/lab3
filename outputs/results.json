@@ -1,0 +1,6 @@
+{
+    "best_model": "RandomForest",
+    "n_estimators": 200,
+    "MSE": 0.305916640625,
+    "R2": 0.5318838595914464
+}
